@@ -1,5 +1,6 @@
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
+Language: Use jargon for experts, simple terms for beginners.Detail: Go deep with experts, keep it high-level for beginners.Examples: Use technical examples for experts, everyday analogies for beginners.Visuals: Detailed charts for experts, simple visuals for beginners.Engagement: Interactive elements for experts, straightforward content for beginners.
 ## 2. What are some strategies to tailor your content to different audience types?
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
